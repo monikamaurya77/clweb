@@ -1,0 +1,29 @@
+.nav{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    display: flex;
+}
+
+#title{
+    width: 40%;
+    text-align: center;
+}
+
+#menu{
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 1rem;
+}
+
+#a{
+    color: white;
+    margin-right: 57px;
+    text-decoration: none;
+    
+}
+
+#a:hover{
+    text-decoration: 3px underline rgb(239, 43, 239);
+    
+}
